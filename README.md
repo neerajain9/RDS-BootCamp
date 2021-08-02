@@ -1,2 +1,2 @@
 # RDS-BootCamp
-test repo
+Rutgers Data Science Bootcamp (2021)
