@@ -10,7 +10,7 @@ To analyse the outcomes for "Theater/Plays" and steer up the fundraising campaig
 The real challenge in this activity is to setup appropriate funding goals that could be tied up to more realistic outcomes. Some more information about the other captured data elements would be helpful to draw out some solid and meaningful conclusions.
 
 ### Analysis of Outcomes Based on Launch Date
-[Please refer the chart below](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%201%20Challenge/Theater_Outcomes_vs_Launch.png)
+Theater_Outcomes_vs_Launch.png[Please refer the chart below](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%201%20Challenge/Theater_Outcomes_vs_Launch.png)
 First observation in this analysis is that the campaigns took first four month (Jan-Apr) since 2009 till 2017, to build up the number of successful outcomes which peaked in the month of May. But for some reasons it started to decline thereafter for reat of the year except a small increase in the month of October. In the month of December the outcomes had been the lowest, may be beacuse of the holiday season people were more involved with friends 'n family. But during this time of the year people are more generous in pledging so why did the number of outcomes dropped this low; there gotta be other reasons that we are not certain about.
 
 Second obeservation is about the failed campaigns. It seems the failed outcomes had a similar pattern as of the successful ones. To conclude this observation, if we combine the two outcomes the overall patter of the outcomes doesn't change. We must identify what really happend in the month of May to see that spike and then the reasons why it started depleting.
