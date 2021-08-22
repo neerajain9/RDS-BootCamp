@@ -3,7 +3,8 @@
 ## Overview of the Election Audit
 Election Commission has the election audit results that Seth and Tom submitted. The audit results consisted of the total votes casted, voted count for each candidate along with it percentage of the total votes casted, and the winning candidate with his/her vote count anlongwith the percentage vote he/she received.
 
-Now, the Elcetion Commission needs to further analyze the results by the County. Their focus is to understand how votes were being casted in each county; the percentage of votes casted in a county (of the total votes), the vote count for each county, and finally the county that had the largest turnout.
+### Purpose of this Analysis
+Now, the Election Commission needs to further analyze the results by the County. Their focus is to understand how votes were being casted in each county; the percentage of votes casted in a county (of the total votes), the vote count for each county, and finally the county that had the largest turnout.
 
 
 ## Election Audit Results
