@@ -1,10 +1,14 @@
-# Pyber Ride Share Analysis
+# Pyber Ride Share Analysis 55555555
 
 ## Overview
 In this analysis our challenge is to summarize the ride sharing data by city type. We'll then showcase our analysis via visualization using multiple-line plot presenting total weekly fares for each city-type.
 
 ## Analysis Results
-I.) **The analysis summary:** Refer below the summary of ride sharing data by each city type. 
+![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%205%20Challenge/Analysis/Pyber%20Summary%20DataFrame.png)
+
+I.) [**The Analysis Summary:**](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%205%20Challenge/Analysis/Pyber%20Summary%20DataFrame.png) 
+
+Refer above the summary of ride sharing data by each city type. 
 1. **The Urban cities**, 
    1. as expected, has more riders leading to higher demand for drivers. However, more drivers means competition, leading to cheaper/competitive rides. The cheaper rides means lower average fare per ride and lower average fare per driver. 
    1. The total fare for these rides is higher bringing Pyber more profitability. With cheaper rides, the demands as well as the drivers will increase with time, helping Pyber capture the reasonable market share and speedy growth. This is apparent fromt the summary below. 
@@ -17,15 +21,16 @@ I.) **The analysis summary:** Refer below the summary of ride sharing data by ea
    1. lies well between Urban and Rural model. This segment has reasonable demad for rides. So, there are lot more drivers than Rural cities. The general outlook of people in suburban areas is usually influenced by Urban cities (due to the fact that people work in Urban cities and live in Suburbs for a better lifestyle). On an average, these rides are affordable and drivers also make reasonable money per ride with decent number of rides in a day.
    1. The total fares are about half of the Urban cities. This segment suggests a high growth potential for Pyber.
 
-II.) **The total weekly Fare by city-type:** Refer the line chart below. The visualization for the weekly fares is in line with our Analysis Summary above.
+##
+![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%205%20Challenge/Analysis/PyBer_fare_by_city.png)
+
+II.) [**The Total Weekly Fare by City-Type:**](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%205%20Challenge/Analysis/PyBer_fare_by_city.png) 
+
+Refer the above line chart. The visualization for the weekly fares is in line with our Analysis Summary above.
 1. For **Urban cities**, we notice some growth since January ($1661) to April ($2470) peaking during the last week of February and first week of March. However, there was samll dip at the starting of month March. there has been some peaks and vallyes and then started to flatten down toward the end of April. This segment showed some growth and maintained (at $2200) that to about 85%-90% of the peak patterns. Overall, this segment grew about 34% in revenues during these 4 months.
 1. **Suburban Cities** at the other hand suggests 88% growth in overall revenues during this period. Our initial hypothesis in identifying this segment to be potential high growth segment seems to well established with this visualization.
 1. **Urban Cities** shows some growth but at a very very low (to negligible) rate.
 
-
-[Refer before and after analysis report.](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%204%20Challenge/Analysis/District%20Summary_new.png)
-
-![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%204%20Challenge/Analysis/District%20Summary_new.png)
 
 ## Summary
 To summarize our efforts and data visualization, it seems Pyber should focus on Suburban City segment as it suggest high growth patterns. 
