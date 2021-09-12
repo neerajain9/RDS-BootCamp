@@ -1,4 +1,4 @@
-# Pyber Ride Share Analysis 55555555
+# Pyber Ride Share Analysis
 
 ## Overview
 In this analysis our challenge is to summarize the ride sharing data by city type. We'll then showcase our analysis via visualization using multiple-line plot presenting total weekly fares for each city-type.
