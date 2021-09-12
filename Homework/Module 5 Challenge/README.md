@@ -4,9 +4,9 @@
 In this analysis our challenge is to summarize the ride sharing data by city type. We'll then showcase our analysis via visualization using multiple-line plot presenting total weekly fares for each city-type.
 
 ## Analysis Results
-![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%205%20Challenge/Analysis/Pyber%20Summary%20DataFrame.png)
+![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%205%20Challenge/Analysis/PyBer_fare_summary.png)
 
-I.) [**The Analysis Summary:**](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%205%20Challenge/Analysis/Pyber%20Summary%20DataFrame.png) 
+I.) [**The Analysis Summary:**](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%205%20Challenge/Analysis/PyBer_fare_summary.png) 
 
 Refer above the summary of ride sharing data by each city type. 
 1. **The Urban cities**, 
