@@ -4,7 +4,7 @@
 We have done a detailed analysis for the school district before. However, it has come to Education Board's attention about the academic dishonesty specifically for "Thomar High School". They have evidence that the school's ninth grade data both for reading and math grades has been altered.
 
 ### Purpose of this Analysis
-The Education Board want to uphold state-testing standard and need further help. Since the data we have for ninth garde "Thomar High School" has been mis-appropriated, our previous analysis wouldn't be accurate. To help the Education Board make the decision based on the acutual data, we are now required to drop reading & math ninth grade data for "Thomas High School" from our analysis and then rerun the entire analysis with this known fact of partial data elimination.
+The Education Board wants to uphold state-testing standard and need further help. Since the data we have for ninth garde "Thomar High School" has been mis-appropriated, our previous analysis wouldn't be accurate. To help the Education Board make the decision based on the acutual data, we are now required to drop reading & math ninth grade data for "Thomas High School" from our analysis and then rerun the entire analysis with this known fact of partial data elimination.
 
 
 ## Analysis Results
@@ -76,7 +76,12 @@ The Education Board want to uphold state-testing standard and need further help.
 
 
 ## Summary
-
+It is interesting to observe the changes the district analysis after the math and reading scores have been replaced. Following are the key changes:
+1. Though the district summary did not have a major impact, however, the school summary had a big impact. The overall passing percentage dropped from ~91% to ~65%. Individual percentages for math and reading were also dropped with the similar magnitude.
+1. Thomas High School, which used to be at 2nd position in the top 5 performing schools now stands at 8th position.
+1. The scores by school spending per student were dropped by approximately 7%.
+1.  The scores by school spending based in school size were dropped by approximately 6%.
+1. The scores by school spending based in school type (Charter) were dropped by approximately 3%-4%.
 
 ## Conclusions:
-
+We only replaced 461 rows for 9th grade and one school only, however, the analysis highlighted some interesting facts. The magnitude of the impact is quite surprising. We really enjoyed re-dong this analysis and there was enormous learning in this process. 
