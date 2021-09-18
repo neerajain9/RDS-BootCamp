@@ -1,7 +1,7 @@
 # Employee Database Analysis
 
 ## Overview
-The firm Pewlett Hackard is aware of the big problem due to retiring baby boomers. In prepration, the HR department head wants to the number of retiring employees per title so that they can have their senior or junior HR specialist statring looking for appropriate candidates for those positions. Also, the HR department head wants to identify if there's a way they could promote existing non-retiring employess. For this, he is looking for the candidates who are eligible to participate in a mentorship program. 
+The firm Pewlett Hackard is aware of the big problem due to the retiring baby boomers. In prepration, the HR department head wants to the number of retiring employees per title so that they can have their senior or junior HR specialist statring looking for appropriate candidates for those positions. Also, the HR department head wants to identify if there's a way they could promote existing non-retiring employess. For this, he is looking for the candidates who are eligible to participate in a mentorship program. 
 
 ## Analysis Results
 Refer following major pointers that may need immediate attention:
