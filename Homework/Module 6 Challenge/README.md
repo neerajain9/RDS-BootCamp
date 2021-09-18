@@ -22,4 +22,5 @@ My partner and I decided to go to [Argentina](https://github.com/neerajain9/RDS-
 ![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%206%20Challenge/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 We wish, we had more time to [explore some country](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%206%20Challenge/Vacation_Itinerary/WeatherPy_travel_map.png) side. But that's all we have on our agenda for this quick trip.
+
 ![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%206%20Challenge/Vacation_Itinerary/WeatherPy_travel_map.png)
