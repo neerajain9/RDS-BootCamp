@@ -5,8 +5,9 @@ The firm Pewlet Hackard is aware of the big problem due to retiring baby boomers
 
 ## Analysis Results
 Refer following major pointers that may need immediate attention:
-![]()
-1. The [retiring employees by title]() analysis suggests that theres about 90,398, employees who are retiring soon.
+
+![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%207%20Challenge/retiring_employess_by_title.png)
+1. The [retiring employees by title](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%207%20Challenge/retiring_employess_by_title.png) analysis suggests that theres about 90,398, employees who are retiring soon.
 1. Out of these there are 57,668 senior people who will be leaving. This imposes a lack of leadership issues, both in the management and the Engineering division, down the line.
 1. There are 14,222 other skilled labor (Engineers)that the management should be worried about.
 1. We see 4,502 techinal leaders leaving soon. For a technology company this could be a serious threat.
@@ -15,7 +16,10 @@ Refer following major pointers that may need immediate attention:
 
 
 ## Summary
-1. We need to fill [90,398 positions]() as the "silver tsunami" begins to make an impact.
-![]()
-1. There's a reasonable number (62,170) of qualified, retirement ready employees to mentor the next generation of Pewlett Hackard employees. However, there're only [1,549 candidates]() who qualify for any mentorship program.
-![]()
+1. We need to fill [90,398 positions](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%207%20Challenge/total_retiring_employess.png) as the "silver tsunami" begins to make an impact.
+
+![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%207%20Challenge/total_retiring_employess.png)
+
+1. There's a reasonable number (62,170) of qualified, retirement ready employees to mentor the next generation of Pewlett Hackard employees. However, there're only [1,549 candidates](https://github.com/neerajain9/RDS-BootCamp/blob/master/Homework/Module%207%20Challenge/mentorship_eligible_employees.png) who qualify for any mentorship program.
+
+![](https://raw.githubusercontent.com/neerajain9/RDS-BootCamp/master/Homework/Module%207%20Challenge/mentorship_eligible_employees.png)
